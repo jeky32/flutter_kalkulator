@@ -32,7 +32,6 @@ flutter run
 https://github.com/user-attachments/assets/516767e2-f0df-4a04-89db-5427367bd4f5
 
 
-https://github.com/user-attachments/assets/2f32253f-d28c-4dd6-8d6c-d6a199e5c319
 
 ## Identitas
 - **NAMA:**     ZACKY NOOR FAIZI
